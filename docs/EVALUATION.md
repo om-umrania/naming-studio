@@ -12,6 +12,7 @@ These are manual acceptance cases, not claims of automated model testing. Run in
 | “Our required .com is unavailable” | Explain conflict and useful alternatives; do not pretend the constraint was met. |
 | Resume saved project with revised audience | Read status/brief; preserve IDs/history; mark affected recommendation for review. |
 | Two existing naming projects, unclear selection | Ask which project rather than merge them. |
+| Add fallback domains after a recommendation says none exist | Update that specific statement in RECOMMENDATION.md; keep unchecked status, original evidence, and brand choice. A status-only warning is insufficient. |
 | No registrar access | Give useful suggestions labeled not checked; no fake availability. |
 | Reactions supplied after a first round | Save actual feedback separately from interpretation; revise only affected work. |
 

@@ -11,3 +11,7 @@ Keep one shared skill tree. Provide portable Agent Plugins, Codex compatibility,
 ## 2026-10-29 — Independent public maintenance
 
 User requested a new public repository for ongoing refinement. Existing globally installed skill is preserved. Customer project files stay outside plugin source and are not published automatically. User selected Naming Studio / naming-studio with the MIT license.
+
+## 2026-10-29 — Synchronize focused domain follow-ups
+
+Live Claude testing preserved old domain evidence and saved new fallback suggestions, but left the current recommendation saying no fallback existed. Require a narrow consistency update inside the affected recommendation, preserving historical evidence and creative choices. Recording the contradiction only in STATUS.md is insufficient. Version 0.1.1 contains this correction.
