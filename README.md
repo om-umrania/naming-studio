@@ -106,7 +106,7 @@ python3 scripts/package.py
 
 The archive is written to `dist/naming-studio.plugin`. Packaging uses an explicit public-file allowlist and a temporary archive before copying the result; development files and customer projects are excluded.
 
-Checks cover manifest consistency, skill entrypoints, relative links, and marketplace paths. Native Claude validation checks the Claude manifests when available. GitHub Actions runs structural validation and archive building. These checks do not establish model behavior or runtime compatibility. See [evaluation cases](docs/EVALUATION.md), [validation results](docs/VALIDATION.md), and [contributing](CONTRIBUTING.md).
+Checks cover manifest consistency, skill entrypoints, relative links, and marketplace paths. Native Claude validation checks the Claude manifests when available. GitHub Actions runs structural validation and archive building. These structural checks do not establish model behavior. Installed-plugin workflow tests were also run in Codex CLI 0.160.0 and Claude Code 2.1.290; see [runtime test results](docs/RUNTIME-TESTS.md) for scenarios and limits. See [evaluation cases](docs/EVALUATION.md), [validation results](docs/VALIDATION.md), and [contributing](CONTRIBUTING.md).
 
 ## Package layout
 
