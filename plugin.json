@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "naming-studio",
+  "version": "0.1.0",
+  "description": "Three connected skills for commercial naming, creative evaluation, and domain discovery.",
+  "author": {
+    "name": "Om Umrania"
+  },
+  "keywords": [
+    "naming",
+    "branding",
+    "domains",
+    "agent-skills"
+  ],
+  "repository": "https://github.com/om-umrania/naming-studio",
+  "license": "MIT"
+}

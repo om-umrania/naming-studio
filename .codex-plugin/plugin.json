@@ -1,0 +1,17 @@
+{
+  "name": "naming-studio",
+  "version": "0.1.0",
+  "description": "Three connected skills for commercial naming, creative evaluation, and domain discovery.",
+  "author": {
+    "name": "Om Umrania"
+  },
+  "keywords": [
+    "naming",
+    "branding",
+    "domains",
+    "agent-skills"
+  ],
+  "skills": "./skills/",
+  "repository": "https://github.com/om-umrania/naming-studio",
+  "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "naming-studio-marketplace",
+  "owner": {
+    "name": "Om Umrania"
+  },
+  "plugins": [
+    {
+      "name": "naming-studio",
+      "source": "./",
+      "description": "Three connected skills for commercial naming, creative evaluation, and domain discovery.",
+      "version": "0.1.0"
+    }
+  ],
+  "metadata": {
+    "description": "Commercial naming and domain discovery with three connected skills."
+  }
+}
